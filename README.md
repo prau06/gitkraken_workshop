@@ -1,4 +1,5 @@
-gitkraken_workshop
+# gitkraken_workshop
+a hands on workshop...
 
 ## Overview
 Our code will demonstrate the different code snippets that have been used for programming
